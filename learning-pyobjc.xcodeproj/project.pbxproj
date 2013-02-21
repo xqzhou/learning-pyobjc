@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		15475CC616C407B1002E4E95 /* setup.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = setup.py; sourceTree = "<group>"; };
+		15475CC716C407B8002E4E95 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		15475CC816C40810002E4E95 /* MainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
+		15475CC916C408B7002E4E95 /* CompareWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CompareWindow.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		15475CBF16C40779002E4E95 = {
+			isa = PBXGroup;
+			children = (
+				15475CC816C40810002E4E95 /* MainMenu.xib */,
+				15475CC916C408B7002E4E95 /* CompareWindow.xib */,
+				15475CC616C407B1002E4E95 /* setup.py */,
+				15475CC716C407B8002E4E95 /* main.py */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		15475CC016C40779002E4E95 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = 15475CC316C40779002E4E95 /* Build configuration list for PBXProject "learning-pyobjc" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 15475CBF16C40779002E4E95;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		15475CC416C40779002E4E95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		15475CC516C40779002E4E95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		15475CC316C40779002E4E95 /* Build configuration list for PBXProject "learning-pyobjc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				15475CC416C40779002E4E95 /* Debug */,
+				15475CC516C40779002E4E95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 15475CC016C40779002E4E95 /* Project object */;
+}
